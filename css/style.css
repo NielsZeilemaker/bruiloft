@@ -370,7 +370,7 @@ header {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('img/header.gif'); 
+    background-image: url('img/header.jpg'); 
     background-position: center center;
     /*background-position: top center;*/
     background-repeat: none;
@@ -413,7 +413,7 @@ header .intro-text .intro-heading {
     text-align: center;
     color: #fff;
     background-attachment: scroll;
-    background-image: url('img/header.gif'); 
+    background-image: url('img/header.jpg'); 
     /*background-position: center center;*/
     background-position: top center;
     background-repeat: none;
@@ -440,6 +440,7 @@ header .intro-text .intro-heading {
         font-size: 40px;
         /*font-style: italic;*/
         line-height: 40px;
+        text-shadow: 2px 2px #000;
     }
 
     header .intro-text .intro-heading {
@@ -451,6 +452,7 @@ header .intro-text .intro-heading {
         font-size: 75px;
         /*font-weight: 700;*/
         line-height: 75px;
+        text-shadow: 2px 2px #000;
     }
 }
 
